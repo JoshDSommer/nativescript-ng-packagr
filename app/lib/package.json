@@ -1,8 +1,8 @@
 {
-	"name": "@my/lib",
+	"name": "mylib",
 	"version": "1.0.0-alpha.0",
-	"repository": "https://github.com/dherges/ng-packaged.git",
-	"author": "david <david@spektrakel.de>",
+	"repository": "https://github.com/TheOriginalJosh/nativescrip-ng-packagr.git",
+	"author": "Josh Sommer <joshdsommer@gmail.com>",
 	"license": "MIT",
 	"private": true,
 	"peerDependencies": {
