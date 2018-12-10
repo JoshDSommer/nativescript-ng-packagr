@@ -34,7 +34,7 @@
     "zone.js": "^0.8.26"
   },
   "devDependencies": {
-    "nativescript-dev-typescript": "~0.7.0",
+    "nativescript-dev-typescript": "^0.7.8",
     "ng-packagr": "^3.0.1",
     "typescript": "~2.7.2"
   }
